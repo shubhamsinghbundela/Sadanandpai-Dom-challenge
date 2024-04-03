@@ -1,4 +1,4 @@
-counter- https://counter-sadanandpai.netlify.app/ 
+counter: https://counter-sadanandpai.netlify.app/ 
 
 dark-light-mode: https://dark-light-mode-sadanandpai.netlify.app/ 
 
